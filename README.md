@@ -1,7 +1,7 @@
 ## Assignment Questions
 
 - By creating the tables (payments, customers, orderdetails) and inserting dummy data,
-I was able to run the required SQL queries to answer the assignment's questions. and tested them in mysql benchmark
+I was able to run the required SQL queries to answer the assignment's questions. and tested them in mysql worbench
 
 
 ## Question 1
