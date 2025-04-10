@@ -1,5 +1,8 @@
 ## Assignment Questions
 
+- By creating the tables (payments, customers, orderdetails) and inserting sample data,
+I was able to run the required SQL queries to answer the assignment's questions. and tested them in mysql benchmark
+
 
 ## Question 1
 
